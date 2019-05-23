@@ -8,6 +8,8 @@ Bootcamp for new Sakai developers focused on the SWITCH project
 
 [Duke Coursera specialization covering HTML, CSS, JavaScript, and Java](https://www.coursera.org/programs/duke-university-courses-gp9dy?authProvider=duke&productId=3-NBikXzEeWwQw6izX918Q&productType=s12n&showMiniModal=true)
 
+[Getting started with SASS](https://scotch.io/tutorials/getting-started-with-sass)
+
 [Sakai Installation Guide](https://confluence.sakaiproject.org/pages/viewpage.action?pageId=109772882)
 
 
