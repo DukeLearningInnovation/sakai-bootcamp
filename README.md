@@ -15,4 +15,7 @@ Bootcamp for new Sakai developers focused on the SWITCH project
 
 ## Example UI commits
 
-https://github.com/sakaiproject/sakai/commit/5cd629aff52376f8716604aaa9c6a09ed334af3b
+https://github.com/sakaiproject/sakai/pull/6057
+
+https://github.com/sakaiproject/sakai/pull/5744
+... using the work that was added in https://github.com/sakaiproject/sakai/pull/5865/files
