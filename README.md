@@ -19,3 +19,6 @@ https://github.com/sakaiproject/sakai/pull/6057
 
 https://github.com/sakaiproject/sakai/pull/5744
 ... using the work that was added in https://github.com/sakaiproject/sakai/pull/5865/files
+
+https://github.com/sakaiproject/sakai/pull/6966
+- original work for the banners standardization
